@@ -10,3 +10,5 @@ Features:
 - Exit with `escape`
 
 ![Screen recording](ScreenRecording.gif "Screen recording")
+
+See [KiepProjects](https://github.com/Joozt/KiepProjects) for an overview of all Kiep projects.
