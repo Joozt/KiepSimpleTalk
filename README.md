@@ -3,7 +3,7 @@
  
 Fullscreen, high contrast, slow scanning. For people with disabilities, limiting them to 1 button input.
 
-Download [here](https://github.com/Joozt/KiepObsolete/releases/download/KiepSimpleTalk_1.0.0/KiepSimpleTalk.exe)
+Download [here](https://github.com/Joozt/KiepSimpleTalk/releases)
 
 Features:
 - Start scanning, select row and character with `space`
